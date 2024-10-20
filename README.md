@@ -2,7 +2,7 @@
 
 # Hello GitHub Actions
 
-_RojeC, create and run a GitHub Actions workflow._
+_RojeC, create and run a GitHub Actions workflow. 🥶_
 
 </header>
 
